@@ -1,4 +1,4 @@
-## Aplicação
+## Aplicação 
 
 **Amigo Secreto** essa é uma aplicação realizada no curso da Oracle Next Eucation, usado para organizar os sorteios de amigo secreto.
 O usuário adiciona amigos à lista com um clique de botão e realiza o sorteio aleatório dos nomes. 
